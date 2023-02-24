@@ -45,7 +45,7 @@ jobs:
           context: .
           push: true
           
-          tags: dto80/234-lab11:latest
+          tags: yadala/234-deploylab-backend:latest
       -
         name: prepare the docker-compose run
         run: |
