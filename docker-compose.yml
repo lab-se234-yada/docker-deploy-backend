@@ -1,6 +1,6 @@
 version: '3.3'
 services:
  backend:
-   image: yadala/234-deploylab-backend:latest
+   image: dto80/se234lab12:latest
    ports:
      - "8085:8080"
