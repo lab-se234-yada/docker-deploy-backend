@@ -1,6 +1,6 @@
 version: '3.3'
 services:
  backend:
-   image: dto80/se234lab12:latest
+   image: dto80/se234-lab12:latest
    ports:
      - "8085:8080"
